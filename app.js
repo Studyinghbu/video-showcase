@@ -4,7 +4,7 @@ const videos = [
     src: "./video.mp4",
     poster: "./poster.jpg",
     duration: "01:16",
-    details: "1080P · MP4",
+    details: "720P · MP4",
   },
 ];
 
