@@ -1,0 +1,6 @@
+.agents/
+.deploy-git/
+assets/
+最终视频.mp4
+server.log
+server-error.log
